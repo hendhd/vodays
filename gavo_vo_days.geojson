@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.10309,
+          52.40453
+        ]
+      },
+      "properties": {
+        "name": " AIP\n",
+        "sym": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.60687,
+          48.1456
+        ]
+      },
+      "properties": {
+        "name": " LMU\n",
+        "sym": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.72555,
+          49.39849
+        ]
+      },
+      "properties": {
+        "name": " LSW / HD\n",
+        "sym": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68813,
+          49.41769
+        ]
+      },
+      "properties": {
+        "name": " MPIA/IMPRS\n",
+        "sym": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68813,
+          49.41769
+        ]
+      },
+      "properties": {
+        "name": " SFB \"The Milky Way System\"\n",
+        "sym": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.239373,
+          53.48017
+        ]
+      },
+      "properties": {
+        "name": " Sternwarte Hamburg\n",
+        "sym": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.239373,
+          53.48017
+        ]
+      },
+      "properties": {
+        "name": " Sternwarte Hamburg\n",
+        "sym": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.26603,
+          51.44434
+        ]
+      },
+      "properties": {
+        "name": " Uni Bochum\n",
+        "sym": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.94635,
+          51.55853
+        ]
+      },
+      "properties": {
+        "name": " Uni Göttingen\n",
+        "sym": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.76857,
+          50.81153
+        ]
+      },
+      "properties": {
+        "name": " Uni Marburg\n",
+        "sym": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.97287,
+          49.78486
+        ]
+      },
+      "properties": {
+        "name": " Uni Würzburg\n",
+        "sym": null
+      }
+    }
+  ]
+}
