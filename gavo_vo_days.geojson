@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "name": " AIP\n",
+        "name": "AIP",
         "sym": null
       }
     },
@@ -25,7 +25,7 @@
         ]
       },
       "properties": {
-        "name": " LMU\n",
+        "name": "LMU",
         "sym": null
       }
     },
@@ -39,7 +39,7 @@
         ]
       },
       "properties": {
-        "name": " LSW / HD\n",
+        "name": "LSW / HD",
         "sym": null
       }
     },
@@ -53,7 +53,7 @@
         ]
       },
       "properties": {
-        "name": " MPIA/IMPRS\n",
+        "name": "MPIA/IMPRS",
         "sym": null
       }
     },
@@ -67,7 +67,7 @@
         ]
       },
       "properties": {
-        "name": " SFB \"The Milky Way System\"\n",
+        "name": "SFB \"The Milky Way System\"",
         "sym": null
       }
     },
@@ -81,7 +81,7 @@
         ]
       },
       "properties": {
-        "name": " Sternwarte Hamburg\n",
+        "name": "Sternwarte Hamburg",
         "sym": null
       }
     },
@@ -95,7 +95,7 @@
         ]
       },
       "properties": {
-        "name": " Sternwarte Hamburg\n",
+        "name": "Sternwarte Hamburg",
         "sym": null
       }
     },
@@ -109,7 +109,7 @@
         ]
       },
       "properties": {
-        "name": " Uni Bochum\n",
+        "name": "Uni Bochum",
         "sym": null
       }
     },
@@ -123,7 +123,7 @@
         ]
       },
       "properties": {
-        "name": " Uni Göttingen\n",
+        "name": "Uni Göttingen",
         "sym": null
       }
     },
@@ -137,7 +137,7 @@
         ]
       },
       "properties": {
-        "name": " Uni Marburg\n",
+        "name": "Uni Marburg",
         "sym": null
       }
     },
@@ -151,7 +151,7 @@
         ]
       },
       "properties": {
-        "name": " Uni Würzburg\n",
+        "name": "Uni Würzburg",
         "sym": null
       }
     }
