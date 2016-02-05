@@ -1,0 +1,20 @@
+This little hack parses GAVO Heidelberg's list of VO days (which is
+kept in a wiki page, URL cf. mkmap.py) and turns it into geojson.
+
+That, when committed to github, can be viewed as a nice map.  See docs at
+https://help.github.com/articles/mapping-geojson-files-on-github/ and
+http://www.geojson.org/geojson-spec.html
+
+The map's URL is 
+https://github.com/msdemlei/vodays/blob/master/gavo_vo_days.geojson
+
+Updating:
+
+$ git pull
+$ ./mkmap.py
+(possibly investiage warnings/error)
+$ git commit -a -m "Updating from upstream map"
+$ git push
+
+(reload URL)
+
