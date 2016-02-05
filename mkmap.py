@@ -28,6 +28,7 @@ class Waypoint(object):
 	
 	def as_geojson(self):
 		return {
+			"type": "Feature",
 			"geometry": {
 				"type": "Point",
 				"coordinates": [self.long, self.lat]
