@@ -29,7 +29,7 @@ class Waypoint(object):
 	def as_geojson(self):
 		return {
 			"type": "Feature",
-			"url" : "http:www.google.de"
+			"url" : "http:www.google.de",
 			"geometry": {
 				"type": "Point",
 				"coordinates": [self.long, self.lat],
