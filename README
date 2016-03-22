@@ -1,5 +1,4 @@
 This little hack parses GAVO Heidelberg's list of VO days (which is
-iljsdfhsdaflg
 kept in a wiki page, URL cf. mkmap.py) and turns it into geojson.
 
 That, when committed to github, can be viewed as a nice map.  See docs at
