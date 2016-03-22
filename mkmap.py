@@ -31,12 +31,13 @@ class Waypoint(object):
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [self.long, self.lat]
+				"coordinates": [self.long, self.lat],
+				"url": "http://www.google.de"
+
       },
 			"properties": {
 				"name": self.label,
-				"sym": None,
-				"url": "http://www.google.de"
+				"sym": None
 			}
 		}
 
