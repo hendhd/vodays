@@ -34,8 +34,9 @@ class Waypoint(object):
 				"coordinates": [self.long, self.lat]
       },
 			"properties": {
-				"name": "AIP",
-				"sym": None
+				"name": self.name,
+				"sym": None,
+				"url": "http://www.google.de"
 			}
 		}
 
